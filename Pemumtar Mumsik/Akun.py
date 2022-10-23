@@ -18,13 +18,3 @@ user2 = {
 }
 
 akun = [user, user1, user2] #dictionaries dalam list
-# akun = { # Nested Dictionaries digunakan untuk menyimpan data nama. npm dan juga username 
-#     "akun1":user1,
-#     "akun2":user2,
-#     "akun3":user3,
-#     #akun:{
-#     # "username": user input
-#     # "nama"
-#     # "npm"
-#     # }
-# }
